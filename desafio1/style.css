@@ -1,4 +1,4 @@
-@charset ('UTF-8');
+
 
 @font-face{
     font-family: Courier-PS-Bold;
@@ -26,8 +26,6 @@
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    overflow: 
-
 }
 
 #conteudo{
